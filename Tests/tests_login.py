@@ -11,3 +11,4 @@ def test_inventory_page(logged_in_page):
 
 
 
+
